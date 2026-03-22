@@ -110,8 +110,15 @@ export default function DashboardPage() {
   const PAGE_SIZE = 20
 
   useEffect(() => {
-    fetch('/data/sales.json')
+    fetch('/api/sales')
       .then((r) => r.json())
+      .then((d) => {
+        // Fallback to static JSON if API returns empty (no DB data yet)
+        if (!d.products || d.products.length === 0) {
+          return fetch('/data/sales.json').then(r => r.json())
+        }
+        return d
+      })
       .then((d) => {
         setData(d)
         setDateFrom(d.period.start)
