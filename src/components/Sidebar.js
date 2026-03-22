@@ -1,5 +1,6 @@
 'use client';
 
+import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
@@ -44,10 +45,28 @@ const navItems = [
 
 export default function Sidebar() {
   const pathname = usePathname();
+  const [open, setOpen] = useState(false);
 
   return (
     <>
-      <aside className="sidebar">
+      {/* Mobile hamburger button */}
+      <button
+        className="mobile-menu-btn"
+        onClick={() => setOpen(!open)}
+        aria-label="Menu"
+      >
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          {open
+            ? <path d="M18 6L6 18M6 6l12 12" />
+            : <><line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" /></>
+          }
+        </svg>
+      </button>
+
+      {/* Mobile overlay */}
+      {open && <div className="sidebar-overlay" onClick={() => setOpen(false)} />}
+
+      <aside className={`sidebar ${open ? 'sidebar-open' : ''}`}>
         {/* Logo */}
         <div className="sidebar-logo">
           <span className="sidebar-logo-emoji">🍦</span>
@@ -70,7 +89,7 @@ export default function Sidebar() {
                 key={item.label}
                 href={item.comingSoon ? '#' : item.href}
                 className={`sidebar-link ${isActive && !item.comingSoon ? 'sidebar-link-active' : ''} ${item.comingSoon ? 'sidebar-link-disabled' : ''}`}
-                onClick={item.comingSoon ? (e) => e.preventDefault() : undefined}
+                onClick={item.comingSoon ? (e) => e.preventDefault() : () => setOpen(false)}
               >
                 <span className="sidebar-link-icon">{item.icon}</span>
                 <span>{item.label}</span>
@@ -205,9 +224,46 @@ export default function Sidebar() {
           margin: 0;
         }
 
+        .mobile-menu-btn {
+          display: none;
+          position: fixed;
+          top: 12px;
+          left: 12px;
+          z-index: 60;
+          background: #1e293b;
+          border: 1px solid #334155;
+          border-radius: 8px;
+          padding: 8px;
+          color: #f1f5f9;
+          cursor: pointer;
+        }
+
+        .sidebar-overlay {
+          display: none;
+        }
+
         @media (max-width: 768px) {
+          .mobile-menu-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }
+
           .sidebar {
-            display: none;
+            transform: translateX(-100%);
+            transition: transform 0.25s ease;
+          }
+
+          .sidebar-open {
+            transform: translateX(0);
+          }
+
+          .sidebar-overlay {
+            display: block;
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 40;
           }
         }
       `}</style>
