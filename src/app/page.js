@@ -65,8 +65,12 @@ const renderPieLabel = ({ name, pctImport, cx, cy, midAngle, outerRadius }) => {
 
 /* ---- DATE FILTER ---- */
 function DateFilter({ dates, dateFrom, dateTo, onChange }) {
+  const today = new Date().toISOString().split('T')[0]
+  const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0]
+
   const presets = [
-    { label: 'Avui', fn: () => { const t = dates[dates.length-1]; onChange(t, t) }},
+    { label: 'Avui', fn: () => onChange(today, today) },
+    { label: 'Ahir', fn: () => onChange(yesterday, yesterday) },
     { label: '7 dies', fn: () => { const end = dates[dates.length-1]; const start = dates[Math.max(0, dates.length-7)]; onChange(start, end) }},
     { label: '30 dies', fn: () => { const end = dates[dates.length-1]; const start = dates[Math.max(0, dates.length-30)]; onChange(start, end) }},
     { label: 'Tot', fn: () => onChange(dates[0], dates[dates.length-1]) },
