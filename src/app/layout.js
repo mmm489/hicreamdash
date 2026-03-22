@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
           @media (max-width: 768px) {
             .main-content {
               margin-left: 0;
-              padding: 16px 12px;
+              padding: 12px 12px 80px;
             }
           }
         `}</style>
