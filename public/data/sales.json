@@ -1,0 +1,2676 @@
+{
+  "period": {
+    "start": "2026-02-01",
+    "end": "2026-03-22",
+    "days": 50
+  },
+  "products": [
+    {
+      "codi": 1,
+      "producte": "BATUT GELAT",
+      "unitats": 75,
+      "import": 405.91,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.41
+    },
+    {
+      "codi": 4,
+      "producte": "7UP",
+      "unitats": 1,
+      "import": 2.27,
+      "categoria": "Begudes",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 5,
+      "producte": "AIGUA 1,5",
+      "unitats": 10,
+      "import": 35.91,
+      "categoria": "Begudes",
+      "preuMig": 3.59
+    },
+    {
+      "codi": 6,
+      "producte": "AIGUA AMB GAS",
+      "unitats": 14,
+      "import": 31.82,
+      "categoria": "Begudes",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 7,
+      "producte": "AIGUA50 CC",
+      "unitats": 167,
+      "import": 296.05,
+      "categoria": "Begudes",
+      "preuMig": 1.77
+    },
+    {
+      "codi": 8,
+      "producte": "AQUARIUS LLIMONA",
+      "unitats": 11,
+      "import": 29.5,
+      "categoria": "Begudes",
+      "preuMig": 2.68
+    },
+    {
+      "codi": 9,
+      "producte": "BEGUDES VEINS",
+      "unitats": 3,
+      "import": 2.73,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 10,
+      "producte": "BITTER KAS",
+      "unitats": 4,
+      "import": 10.73,
+      "categoria": "Altres",
+      "preuMig": 2.68
+    },
+    {
+      "codi": 11,
+      "producte": "CACAOLAT",
+      "unitats": 6,
+      "import": 16.09,
+      "categoria": "Altres",
+      "preuMig": 2.68
+    },
+    {
+      "codi": 12,
+      "producte": "COKE",
+      "unitats": 46,
+      "import": 104.55,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 13,
+      "producte": "COKE 00",
+      "unitats": 15,
+      "import": 34.09,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 14,
+      "producte": "DAMM  LEMON",
+      "unitats": 8,
+      "import": 18.18,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 15,
+      "producte": "ESTRELLA",
+      "unitats": 84,
+      "import": 190.91,
+      "categoria": "Especialitats",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 16,
+      "producte": "FANTA LLIMONA",
+      "unitats": 9,
+      "import": 20.45,
+      "categoria": "Begudes",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 17,
+      "producte": "FANTA TARONJA",
+      "unitats": 22,
+      "import": 50.0,
+      "categoria": "Begudes",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 18,
+      "producte": "FREE DAMM",
+      "unitats": 3,
+      "import": 6.82,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 19,
+      "producte": "GRANINI PIÑA",
+      "unitats": 5,
+      "import": 13.41,
+      "categoria": "Altres",
+      "preuMig": 2.68
+    },
+    {
+      "codi": 20,
+      "producte": "GRANINI PRÉSSEC",
+      "unitats": 13,
+      "import": 34.86,
+      "categoria": "Altres",
+      "preuMig": 2.68
+    },
+    {
+      "codi": 21,
+      "producte": "GRANINI TARONJA",
+      "unitats": 10,
+      "import": 26.82,
+      "categoria": "Altres",
+      "preuMig": 2.68
+    },
+    {
+      "codi": 23,
+      "producte": "NESTEA",
+      "unitats": 12,
+      "import": 32.18,
+      "categoria": "Begudes",
+      "preuMig": 2.68
+    },
+    {
+      "codi": 26,
+      "producte": "FREE DAMM TORRADA",
+      "unitats": 3,
+      "import": 6.82,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 27,
+      "producte": "TONICA SWEPPES",
+      "unitats": 12,
+      "import": 32.18,
+      "categoria": "Begudes",
+      "preuMig": 2.68
+    },
+    {
+      "codi": 34,
+      "producte": "MAX CREMA CATALANA",
+      "unitats": 6,
+      "import": 21.55,
+      "categoria": "Altres",
+      "preuMig": 3.59
+    },
+    {
+      "codi": 35,
+      "producte": "MAX KINDER",
+      "unitats": 32,
+      "import": 114.91,
+      "categoria": "Especialitats",
+      "preuMig": 3.59
+    },
+    {
+      "codi": 36,
+      "producte": "MAX LOTUS",
+      "unitats": 17,
+      "import": 61.05,
+      "categoria": "Especialitats",
+      "preuMig": 3.59
+    },
+    {
+      "codi": 38,
+      "producte": "MAX OREO",
+      "unitats": 11,
+      "import": 39.5,
+      "categoria": "Especialitats",
+      "preuMig": 3.59
+    },
+    {
+      "codi": 39,
+      "producte": "MAX PISTACHO",
+      "unitats": 21,
+      "import": 75.41,
+      "categoria": "Especialitats",
+      "preuMig": 3.59
+    },
+    {
+      "codi": 41,
+      "producte": "MINI DONUT DECORAT",
+      "unitats": 23,
+      "import": 31.36,
+      "categoria": "Pastisseria",
+      "preuMig": 1.36
+    },
+    {
+      "codi": 42,
+      "producte": "MINI DONUTS VEINS",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Pastisseria",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 45,
+      "producte": "BERLINES HOT HELADO",
+      "unitats": 27,
+      "import": 100.59,
+      "categoria": "Altres",
+      "preuMig": 3.73
+    },
+    {
+      "codi": 46,
+      "producte": "CAFE AMB LLET",
+      "unitats": 338,
+      "import": 636.36,
+      "categoria": "Cafeteria",
+      "preuMig": 1.88
+    },
+    {
+      "codi": 47,
+      "producte": "CAFE AMB LLET DESCAFEINAT SE SOBRE",
+      "unitats": 1,
+      "import": 1.82,
+      "categoria": "Cafeteria",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 48,
+      "producte": "CAFE AMB LLET DESCAFEÏNAT",
+      "unitats": 17,
+      "import": 32.73,
+      "categoria": "Cafeteria",
+      "preuMig": 1.93
+    },
+    {
+      "codi": 50,
+      "producte": "CAFE DESCAFEINAT SOBRE",
+      "unitats": 1,
+      "import": 1.59,
+      "categoria": "Cafeteria",
+      "preuMig": 1.59
+    },
+    {
+      "codi": 51,
+      "producte": "CAFE I GELAT",
+      "unitats": 3,
+      "import": 13.5,
+      "categoria": "Cafeteria",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 52,
+      "producte": "CAFE VEÏNS",
+      "unitats": 72,
+      "import": 65.45,
+      "categoria": "Cafeteria",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 53,
+      "producte": "CAFÈ",
+      "unitats": 185,
+      "import": 302.32,
+      "categoria": "Cafeteria",
+      "preuMig": 1.63
+    },
+    {
+      "codi": 54,
+      "producte": "CAFÈ AMERICÀ",
+      "unitats": 64,
+      "import": 111.73,
+      "categoria": "Cafeteria",
+      "preuMig": 1.75
+    },
+    {
+      "codi": 55,
+      "producte": "CAFÉ DESCAFEINAT",
+      "unitats": 2,
+      "import": 3.55,
+      "categoria": "Cafeteria",
+      "preuMig": 1.77
+    },
+    {
+      "codi": 56,
+      "producte": "CAPUCCINO",
+      "unitats": 72,
+      "import": 180.0,
+      "categoria": "Cafeteria",
+      "preuMig": 2.5
+    },
+    {
+      "codi": 57,
+      "producte": "CAPUCCINO DESCAFEINAT",
+      "unitats": 4,
+      "import": 10.0,
+      "categoria": "Cafeteria",
+      "preuMig": 2.5
+    },
+    {
+      "codi": 58,
+      "producte": "DOBLE EXPRESSO",
+      "unitats": 17,
+      "import": 46.41,
+      "categoria": "Altres",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 59,
+      "producte": "GEL",
+      "unitats": 30,
+      "import": 2.73,
+      "categoria": "Altres",
+      "preuMig": 0.09
+    },
+    {
+      "codi": 60,
+      "producte": "MENTA POLEO",
+      "unitats": 2,
+      "import": 4.55,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 61,
+      "producte": "ENGLISH BREAKFAST",
+      "unitats": 2,
+      "import": 4.55,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 62,
+      "producte": "TE VERT",
+      "unitats": 4,
+      "import": 9.09,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 63,
+      "producte": "CAMAMILLA",
+      "unitats": 12,
+      "import": 27.27,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 64,
+      "producte": "ROIBOS",
+      "unitats": 5,
+      "import": 11.36,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 65,
+      "producte": "FRUITES VERMELLES",
+      "unitats": 1,
+      "import": 2.27,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 66,
+      "producte": "MENTA POLEO & LLET",
+      "unitats": 4,
+      "import": 9.82,
+      "categoria": "Altres",
+      "preuMig": 2.46
+    },
+    {
+      "codi": 67,
+      "producte": "ENGLISH BREAKFAST & LLET",
+      "unitats": 1,
+      "import": 2.45,
+      "categoria": "Altres",
+      "preuMig": 2.45
+    },
+    {
+      "codi": 69,
+      "producte": "CAMAMILLA & LLET",
+      "unitats": 2,
+      "import": 4.91,
+      "categoria": "Altres",
+      "preuMig": 2.46
+    },
+    {
+      "codi": 71,
+      "producte": "FRUITES VERMELLES & LLET",
+      "unitats": 1,
+      "import": 1.77,
+      "categoria": "Altres",
+      "preuMig": 1.77
+    },
+    {
+      "codi": 73,
+      "producte": "SUPLEMENT LLET VEGETAL",
+      "unitats": 25,
+      "import": 6.82,
+      "categoria": "Altres",
+      "preuMig": 0.27
+    },
+    {
+      "codi": 74,
+      "producte": "TALLAT",
+      "unitats": 192,
+      "import": 339.45,
+      "categoria": "Cafeteria",
+      "preuMig": 1.77
+    },
+    {
+      "codi": 75,
+      "producte": "TALLAT DESCAFEINAT SOBRE",
+      "unitats": 1,
+      "import": 1.73,
+      "categoria": "Cafeteria",
+      "preuMig": 1.73
+    },
+    {
+      "codi": 76,
+      "producte": "TALLAT DESCAFEÍNAT",
+      "unitats": 20,
+      "import": 36.36,
+      "categoria": "Cafeteria",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 77,
+      "producte": "XOCOLATA A LA TASSA",
+      "unitats": 12,
+      "import": 36.36,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 3.03
+    },
+    {
+      "codi": 78,
+      "producte": "LOTUS LATTE",
+      "unitats": 10,
+      "import": 38.18,
+      "categoria": "Cafeteria",
+      "preuMig": 3.82
+    },
+    {
+      "codi": 79,
+      "producte": "MATCHA LATE",
+      "unitats": 31,
+      "import": 108.59,
+      "categoria": "Altres",
+      "preuMig": 3.5
+    },
+    {
+      "codi": 80,
+      "producte": "PISTACHO LATTE",
+      "unitats": 29,
+      "import": 110.73,
+      "categoria": "Cafeteria",
+      "preuMig": 3.82
+    },
+    {
+      "codi": 81,
+      "producte": "CHAI LATE",
+      "unitats": 20,
+      "import": 69.64,
+      "categoria": "Especialitats",
+      "preuMig": 3.48
+    },
+    {
+      "codi": 82,
+      "producte": "CREPE",
+      "unitats": 148,
+      "import": 664.45,
+      "categoria": "Crepes",
+      "preuMig": 4.49
+    },
+    {
+      "codi": 83,
+      "producte": "MEDITERRANEO",
+      "unitats": 9,
+      "import": 56.45,
+      "categoria": "Especialitats",
+      "preuMig": 6.27
+    },
+    {
+      "codi": 84,
+      "producte": "MIXTO",
+      "unitats": 25,
+      "import": 156.82,
+      "categoria": "Especialitats",
+      "preuMig": 6.27
+    },
+    {
+      "codi": 85,
+      "producte": "QUESOS",
+      "unitats": 8,
+      "import": 54.55,
+      "categoria": "Altres",
+      "preuMig": 6.82
+    },
+    {
+      "codi": 88,
+      "producte": "DOGHT BOX 6 UD.",
+      "unitats": 12,
+      "import": 81.82,
+      "categoria": "Especialitats",
+      "preuMig": 6.82
+    },
+    {
+      "codi": 89,
+      "producte": "DOGHT BOX 9 UD.",
+      "unitats": 1,
+      "import": 9.0,
+      "categoria": "Especialitats",
+      "preuMig": 9.0
+    },
+    {
+      "codi": 90,
+      "producte": "FRAPPE CLASIC",
+      "unitats": 14,
+      "import": 71.64,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.12
+    },
+    {
+      "codi": 91,
+      "producte": "FRAPPE & NATA",
+      "unitats": 21,
+      "import": 116.27,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.54
+    },
+    {
+      "codi": 92,
+      "producte": "FRAPPE MATCHA",
+      "unitats": 11,
+      "import": 63.27,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.75
+    },
+    {
+      "codi": 93,
+      "producte": "FRAPUCCINO CANDY",
+      "unitats": 15,
+      "import": 90.91,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 6.06
+    },
+    {
+      "codi": 94,
+      "producte": "FRAPUCCINO VAINILLA",
+      "unitats": 19,
+      "import": 111.55,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.87
+    },
+    {
+      "codi": 95,
+      "producte": "CUCURUTXO L",
+      "unitats": 7,
+      "import": 39.18,
+      "categoria": "Cucurutxos",
+      "preuMig": 5.6
+    },
+    {
+      "codi": 96,
+      "producte": "CUCURUTXO M",
+      "unitats": 106,
+      "import": 460.91,
+      "categoria": "Cucurutxos",
+      "preuMig": 4.35
+    },
+    {
+      "codi": 97,
+      "producte": "CUCURUTXO S",
+      "unitats": 238,
+      "import": 805.95,
+      "categoria": "Cucurutxos",
+      "preuMig": 3.39
+    },
+    {
+      "codi": 98,
+      "producte": "POT L",
+      "unitats": 101,
+      "import": 567.36,
+      "categoria": "Pots Gelat",
+      "preuMig": 5.62
+    },
+    {
+      "codi": 99,
+      "producte": "POT M",
+      "unitats": 396,
+      "import": 1723.73,
+      "categoria": "Pots Gelat",
+      "preuMig": 4.35
+    },
+    {
+      "codi": 100,
+      "producte": "POT S",
+      "unitats": 413,
+      "import": 1388.5,
+      "categoria": "Pots Gelat",
+      "preuMig": 3.36
+    },
+    {
+      "codi": 109,
+      "producte": "AMERICAN WAFFLE",
+      "unitats": 281,
+      "import": 1269.55,
+      "categoria": "Waffles",
+      "preuMig": 4.52
+    },
+    {
+      "codi": 110,
+      "producte": "SANDWICH WAFFLE",
+      "unitats": 167,
+      "import": 772.09,
+      "categoria": "Waffles",
+      "preuMig": 4.62
+    },
+    {
+      "codi": 111,
+      "producte": "HI POP",
+      "unitats": 104,
+      "import": 652.36,
+      "categoria": "Especialitats",
+      "preuMig": 6.27
+    },
+    {
+      "codi": 112,
+      "producte": "ICED MADUIXA",
+      "unitats": 3,
+      "import": 13.36,
+      "categoria": "Altres",
+      "preuMig": 4.45
+    },
+    {
+      "codi": 114,
+      "producte": "ICED MANGO",
+      "unitats": 4,
+      "import": 17.82,
+      "categoria": "Altres",
+      "preuMig": 4.46
+    },
+    {
+      "codi": 116,
+      "producte": "ICED MARACUIA",
+      "unitats": 3,
+      "import": 13.36,
+      "categoria": "Altres",
+      "preuMig": 4.45
+    },
+    {
+      "codi": 118,
+      "producte": "MILK CAFE",
+      "unitats": 1,
+      "import": 4.45,
+      "categoria": "Cafeteria",
+      "preuMig": 4.45
+    },
+    {
+      "codi": 121,
+      "producte": "MILK MANGO",
+      "unitats": 1,
+      "import": 4.45,
+      "categoria": "Altres",
+      "preuMig": 4.45
+    },
+    {
+      "codi": 125,
+      "producte": "CHAI RECETA",
+      "unitats": 1,
+      "import": 6.27,
+      "categoria": "Especialitats",
+      "preuMig": 6.27
+    },
+    {
+      "codi": 126,
+      "producte": "COOKIES CREAM",
+      "unitats": 10,
+      "import": 63.82,
+      "categoria": "Especialitats",
+      "preuMig": 6.38
+    },
+    {
+      "codi": 127,
+      "producte": "KINDER DELIGHT",
+      "unitats": 16,
+      "import": 101.09,
+      "categoria": "Especialitats",
+      "preuMig": 6.32
+    },
+    {
+      "codi": 128,
+      "producte": "LOTUS RECETA",
+      "unitats": 6,
+      "import": 38.36,
+      "categoria": "Especialitats",
+      "preuMig": 6.39
+    },
+    {
+      "codi": 129,
+      "producte": "NUTELLA & GO",
+      "unitats": 6,
+      "import": 38.0,
+      "categoria": "Complements",
+      "preuMig": 6.33
+    },
+    {
+      "codi": 130,
+      "producte": "OREO ICE",
+      "unitats": 34,
+      "import": 217.64,
+      "categoria": "Especialitats",
+      "preuMig": 6.4
+    },
+    {
+      "codi": 131,
+      "producte": "PISTACHO RECETA",
+      "unitats": 5,
+      "import": 31.73,
+      "categoria": "Especialitats",
+      "preuMig": 6.35
+    },
+    {
+      "codi": 132,
+      "producte": "TÉ MACHA RECETA",
+      "unitats": 3,
+      "import": 18.82,
+      "categoria": "Especialitats",
+      "preuMig": 6.27
+    },
+    {
+      "codi": 133,
+      "producte": "YOGURT PASIÓN",
+      "unitats": 18,
+      "import": 115.09,
+      "categoria": "Iogurts",
+      "preuMig": 6.39
+    },
+    {
+      "codi": 134,
+      "producte": "SMOOTHIE COCO",
+      "unitats": 16,
+      "import": 85.82,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 135,
+      "producte": "SMOOTHIE FRAMBUESA",
+      "unitats": 9,
+      "import": 48.27,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 136,
+      "producte": "SMOOTHIE FRESA",
+      "unitats": 21,
+      "import": 112.64,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 137,
+      "producte": "SMOOTHIE MANGO",
+      "unitats": 32,
+      "import": 171.64,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 138,
+      "producte": "SMOOTHIE MARACUYA",
+      "unitats": 22,
+      "import": 118.0,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 139,
+      "producte": "POT IOGURT L",
+      "unitats": 22,
+      "import": 119.0,
+      "categoria": "Iogurts",
+      "preuMig": 5.41
+    },
+    {
+      "codi": 140,
+      "producte": "POT IOGURT M",
+      "unitats": 79,
+      "import": 344.32,
+      "categoria": "Iogurts",
+      "preuMig": 4.36
+    },
+    {
+      "codi": 141,
+      "producte": "POT IOGURT S",
+      "unitats": 123,
+      "import": 403.45,
+      "categoria": "Iogurts",
+      "preuMig": 3.28
+    },
+    {
+      "codi": 142,
+      "producte": "PATATES XIPS",
+      "unitats": 10,
+      "import": 18.18,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 143,
+      "producte": "BOX 6 XURROS + 2 XOCOLATA",
+      "unitats": 1,
+      "import": 9.0,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 9.0
+    },
+    {
+      "codi": 144,
+      "producte": "BOX 9 XURROS + 3 XOCOLATA",
+      "unitats": 1,
+      "import": 13.55,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 13.55
+    },
+    {
+      "codi": 145,
+      "producte": "ECLAIR XURRO",
+      "unitats": 3,
+      "import": 10.64,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 3.55
+    },
+    {
+      "codi": 146,
+      "producte": "ECLAIR XURRO CREMA",
+      "unitats": 5,
+      "import": 17.73,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 3.55
+    },
+    {
+      "codi": 147,
+      "producte": "ECLAIR PISTAXO",
+      "unitats": 1,
+      "import": 3.55,
+      "categoria": "Altres",
+      "preuMig": 3.55
+    },
+    {
+      "codi": 149,
+      "producte": "ECLAIR XURRO OREO",
+      "unitats": 1,
+      "import": 3.55,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 3.55
+    },
+    {
+      "codi": 151,
+      "producte": "ECLAIR XURRO KINDER",
+      "unitats": 2,
+      "import": 7.09,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 3.54
+    },
+    {
+      "codi": 152,
+      "producte": "PACK 3 XURROS SUCRE",
+      "unitats": 93,
+      "import": 279.0,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 3.0
+    },
+    {
+      "codi": 153,
+      "producte": "PACK 3 XURROS XOCOLATA",
+      "unitats": 4,
+      "import": 19.27,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 4.82
+    },
+    {
+      "codi": 154,
+      "producte": "XOCOLATA & XURROS",
+      "unitats": 94,
+      "import": 504.18,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 155,
+      "producte": "XURRO XOCOLATA",
+      "unitats": 28,
+      "import": 48.36,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 1.73
+    },
+    {
+      "codi": 156,
+      "producte": "XURRON CREMA",
+      "unitats": 3,
+      "import": 9.55,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 3.18
+    },
+    {
+      "codi": 157,
+      "producte": "XURRON DOLÇ DE LLET",
+      "unitats": 4,
+      "import": 12.73,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 3.18
+    },
+    {
+      "codi": 158,
+      "producte": "XURRON NUTELLA",
+      "unitats": 3,
+      "import": 9.55,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 3.18
+    },
+    {
+      "codi": 159,
+      "producte": "SABOR AÇAI",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 160,
+      "producte": "SABOR AVELLANA",
+      "unitats": 2,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 161,
+      "producte": "SABOR BLUE",
+      "unitats": 5,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 162,
+      "producte": "SABOR CAFE",
+      "unitats": 6,
+      "import": 0.0,
+      "categoria": "Cafeteria",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 163,
+      "producte": "SABOR CHEESECAKE",
+      "unitats": 8,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 164,
+      "producte": "SABOR COCO",
+      "unitats": 6,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 165,
+      "producte": "SABOR DOLÇ DE LLET",
+      "unitats": 9,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 166,
+      "producte": "SABOR FERRERO",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 167,
+      "producte": "SABOR KINDER",
+      "unitats": 16,
+      "import": -0.0,
+      "categoria": "Especialitats",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 168,
+      "producte": "SABOR LLIMONA",
+      "unitats": 5,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 170,
+      "producte": "SABOR MADUIXA",
+      "unitats": 10,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 171,
+      "producte": "SABOR MANGO",
+      "unitats": 5,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 172,
+      "producte": "SABOR MARACUIA",
+      "unitats": 4,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 173,
+      "producte": "SABOR MENTA XOCO",
+      "unitats": 3,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 174,
+      "producte": "SABOR NATA",
+      "unitats": 4,
+      "import": 0.0,
+      "categoria": "Complements",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 175,
+      "producte": "SABOR NUTELLA",
+      "unitats": 2,
+      "import": 0.0,
+      "categoria": "Complements",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 176,
+      "producte": "SABOR OREO",
+      "unitats": 12,
+      "import": 0.0,
+      "categoria": "Especialitats",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 177,
+      "producte": "SABOR PISTAXO",
+      "unitats": 9,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 178,
+      "producte": "SABOR TURRO",
+      "unitats": 5,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 179,
+      "producte": "SABOR VAINILLA",
+      "unitats": 13,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 180,
+      "producte": "SABOR VAINILLA COOKIES",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Especialitats",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 181,
+      "producte": "SABOR XOCOLATA",
+      "unitats": 23,
+      "import": 0.0,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 182,
+      "producte": "XOCOLATA",
+      "unitats": 21,
+      "import": -0.0,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 183,
+      "producte": "XOCOLATA BLANCA",
+      "unitats": 8,
+      "import": 0.0,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 184,
+      "producte": "PISTATXO SALSA",
+      "unitats": 4,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 186,
+      "producte": "SALSA MERMELADA MADUIXA",
+      "unitats": 2,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 187,
+      "producte": "NUTELLA",
+      "unitats": 83,
+      "import": -0.0,
+      "categoria": "Complements",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 189,
+      "producte": "BROWNIE",
+      "unitats": 8,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 190,
+      "producte": "DOLÇ DE LLET",
+      "unitats": 3,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 192,
+      "producte": "CROCANTI",
+      "unitats": 2,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 194,
+      "producte": "KINDER",
+      "unitats": 2,
+      "import": 0.0,
+      "categoria": "Especialitats",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 195,
+      "producte": "KINDER SALSA",
+      "unitats": 13,
+      "import": -0.0,
+      "categoria": "Especialitats",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 197,
+      "producte": "LOTUS POLS",
+      "unitats": 9,
+      "import": 0.0,
+      "categoria": "Especialitats",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 198,
+      "producte": "LOTUS SALSA",
+      "unitats": 5,
+      "import": 0.0,
+      "categoria": "Especialitats",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 199,
+      "producte": "MADUIXA NATURAL",
+      "unitats": 17,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 200,
+      "producte": "MELMELADA MADUIXA",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 202,
+      "producte": "MELMELADA NABIUS",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 203,
+      "producte": "NATA",
+      "unitats": 20,
+      "import": -0.0,
+      "categoria": "Complements",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 204,
+      "producte": "NUBE",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 205,
+      "producte": "OREO POLS",
+      "unitats": 12,
+      "import": 0.0,
+      "categoria": "Especialitats",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 206,
+      "producte": "OREO SALSA",
+      "unitats": 5,
+      "import": 0.0,
+      "categoria": "Especialitats",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 207,
+      "producte": "XOCO SALSA",
+      "unitats": 6,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 208,
+      "producte": "PLATAN NATURAL",
+      "unitats": 2,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 209,
+      "producte": "j",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 210,
+      "producte": "SUCRE",
+      "unitats": 7,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 211,
+      "producte": "XOCOLATA",
+      "unitats": 14,
+      "import": 0.0,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 212,
+      "producte": "XOCLATA BLANCA",
+      "unitats": 13,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 216,
+      "producte": "CRUMBLE MADUIXA",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 217,
+      "producte": "GELAT AVELLANA",
+      "unitats": 5,
+      "import": 4.55,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 219,
+      "producte": "GELAT DULCE DE LECHE",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 223,
+      "producte": "GELAT LOTUS",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Especialitats",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 224,
+      "producte": "GELAT MADUIXA",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 225,
+      "producte": "GELAT MANGO",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 226,
+      "producte": "GELAT NATA",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Complements",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 228,
+      "producte": "GELAT AÇAI",
+      "unitats": 11,
+      "import": 10.0,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 230,
+      "producte": "GELAT VAINILLA",
+      "unitats": 2,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 231,
+      "producte": "GELAT XOCOLATA",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 234,
+      "producte": "GELAT CHEESECAKE",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 236,
+      "producte": "GELAT MARACUIA",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 238,
+      "producte": "GELAT PISTAXO",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 243,
+      "producte": "NUTELLA 1€",
+      "unitats": 114,
+      "import": 103.64,
+      "categoria": "Complements",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 244,
+      "producte": "CRISPY BALLS BLANCA 1€",
+      "unitats": 2,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 245,
+      "producte": "BROWNIE 1€",
+      "unitats": 2,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 246,
+      "producte": "DOLÇ DE LLET 1 €",
+      "unitats": 2,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 247,
+      "producte": "CREMA CATALANA  1 €",
+      "unitats": 4,
+      "import": 3.64,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 248,
+      "producte": "CROCANTI 1€",
+      "unitats": 2,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 250,
+      "producte": "KINDER 1€",
+      "unitats": 4,
+      "import": 3.64,
+      "categoria": "Especialitats",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 251,
+      "producte": "KINDER SALSA 1€",
+      "unitats": 6,
+      "import": 5.45,
+      "categoria": "Especialitats",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 252,
+      "producte": "LACASITOS 1€",
+      "unitats": 5,
+      "import": 4.55,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 253,
+      "producte": "LOTUS  POLS 1€",
+      "unitats": 7,
+      "import": 6.36,
+      "categoria": "Especialitats",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 254,
+      "producte": "LOTUS SALSA 1€",
+      "unitats": 3,
+      "import": 2.73,
+      "categoria": "Especialitats",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 255,
+      "producte": "MADUIXA NATURAL 1€",
+      "unitats": 45,
+      "import": 40.91,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 256,
+      "producte": "MELMELADA MADUIXA 1€",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 259,
+      "producte": "NATA 1€",
+      "unitats": 82,
+      "import": 74.55,
+      "categoria": "Complements",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 260,
+      "producte": "NUBE 1€",
+      "unitats": 7,
+      "import": 6.36,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 261,
+      "producte": "OREO POLS 1€",
+      "unitats": 18,
+      "import": 16.36,
+      "categoria": "Especialitats",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 263,
+      "producte": "PISTAXO SALSA 1€",
+      "unitats": 5,
+      "import": 4.55,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 264,
+      "producte": "PLATAN NATURAL 1€",
+      "unitats": 25,
+      "import": 22.73,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 265,
+      "producte": "SALSA NATURAL 1€",
+      "unitats": 2,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 267,
+      "producte": "XOCOLATA 1€",
+      "unitats": 7,
+      "import": 6.36,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 268,
+      "producte": "XOCOLATA BLANCA 1€",
+      "unitats": 7,
+      "import": 6.36,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 270,
+      "producte": "CRUMBLE CARAMEL 1€",
+      "unitats": 3,
+      "import": 2.73,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 272,
+      "producte": "CRUMBLE MADUIXA 1€",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 273,
+      "producte": "GELAT AVELLANA 2€",
+      "unitats": 19,
+      "import": 34.55,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 274,
+      "producte": "GELAT COCO 2€",
+      "unitats": 5,
+      "import": 9.09,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 275,
+      "producte": "GELAT DULCE DE LECHE 2€",
+      "unitats": 2,
+      "import": 3.64,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 276,
+      "producte": "GELAT IOGURT 2€",
+      "unitats": 3,
+      "import": 5.45,
+      "categoria": "Iogurts",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 277,
+      "producte": "GELAT LLIMONA 2€",
+      "unitats": 1,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 278,
+      "producte": "GELAT KINDER 2€",
+      "unitats": 8,
+      "import": 12.73,
+      "categoria": "Especialitats",
+      "preuMig": 1.59
+    },
+    {
+      "codi": 279,
+      "producte": "GELAT LOTUS 2€",
+      "unitats": 2,
+      "import": 3.64,
+      "categoria": "Especialitats",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 280,
+      "producte": "GELAT MADUIXA 2€",
+      "unitats": 4,
+      "import": 7.27,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 282,
+      "producte": "GELAT NATA 2€",
+      "unitats": 2,
+      "import": 3.64,
+      "categoria": "Complements",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 283,
+      "producte": "GELAT OREO 2€",
+      "unitats": 6,
+      "import": 10.91,
+      "categoria": "Especialitats",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 284,
+      "producte": "GELAT AÇAI 2€",
+      "unitats": 20,
+      "import": 36.36,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 285,
+      "producte": "GELAT STRACCIATELA 2€",
+      "unitats": 2,
+      "import": 3.64,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 286,
+      "producte": "GELAT VAINILLA 2€",
+      "unitats": 12,
+      "import": 21.82,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 287,
+      "producte": "GELAT XOCOLATA 2€",
+      "unitats": 3,
+      "import": 5.45,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 288,
+      "producte": "GELAT BLUE 2€",
+      "unitats": 1,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 289,
+      "producte": "GELAT CAFE 2€",
+      "unitats": 1,
+      "import": 1.82,
+      "categoria": "Cafeteria",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 290,
+      "producte": "GELAT CHEESECAKE 2€",
+      "unitats": 3,
+      "import": 5.45,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 291,
+      "producte": "GELAT FERRERO 2€",
+      "unitats": 1,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 292,
+      "producte": "GELAT MENTA XOC 2€",
+      "unitats": 2,
+      "import": 3.64,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 293,
+      "producte": "GELAT PISTAXO 2€",
+      "unitats": 6,
+      "import": 10.91,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 295,
+      "producte": "GELAT VAINILLA COOKIES 2€",
+      "unitats": 3,
+      "import": 5.45,
+      "categoria": "Especialitats",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 296,
+      "producte": "NUTELLA 0,5€",
+      "unitats": 101,
+      "import": 45.91,
+      "categoria": "Complements",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 297,
+      "producte": "CRISPY BALLS BLANCA 0.5 €",
+      "unitats": 5,
+      "import": 2.27,
+      "categoria": "Altres",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 298,
+      "producte": "BROWNIE 0.5€",
+      "unitats": 20,
+      "import": 9.09,
+      "categoria": "Altres",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 299,
+      "producte": "DOLÇ DE LLET 0.50 €",
+      "unitats": 2,
+      "import": 0.45,
+      "categoria": "Altres",
+      "preuMig": 0.23
+    },
+    {
+      "codi": 301,
+      "producte": "CROCANTI 0.5€",
+      "unitats": 2,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.46
+    },
+    {
+      "codi": 303,
+      "producte": "KINDER 0.5€",
+      "unitats": 3,
+      "import": 1.36,
+      "categoria": "Especialitats",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 304,
+      "producte": "KINDER SALSA 0.5€",
+      "unitats": 5,
+      "import": 2.27,
+      "categoria": "Especialitats",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 305,
+      "producte": "LACASITOS 0.5€",
+      "unitats": 9,
+      "import": 4.09,
+      "categoria": "Altres",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 306,
+      "producte": "LOTUS POLS 0.5€",
+      "unitats": 3,
+      "import": 1.36,
+      "categoria": "Especialitats",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 308,
+      "producte": "MADUIXA NATURAL 0.5€",
+      "unitats": 9,
+      "import": 4.09,
+      "categoria": "Altres",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 312,
+      "producte": "NATA 0.5€",
+      "unitats": 6,
+      "import": 2.73,
+      "categoria": "Complements",
+      "preuMig": 0.46
+    },
+    {
+      "codi": 313,
+      "producte": "NUBE 0.5€",
+      "unitats": 7,
+      "import": 3.18,
+      "categoria": "Altres",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 314,
+      "producte": "OREO POLS 0.5€",
+      "unitats": 4,
+      "import": 1.82,
+      "categoria": "Especialitats",
+      "preuMig": 0.46
+    },
+    {
+      "codi": 316,
+      "producte": "PISTAXO SALSA 0.5€",
+      "unitats": 2,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.46
+    },
+    {
+      "codi": 317,
+      "producte": "PLATAN NATURAL 0.5€",
+      "unitats": 8,
+      "import": 3.64,
+      "categoria": "Altres",
+      "preuMig": 0.46
+    },
+    {
+      "codi": 320,
+      "producte": "XOCOLATA 0.5€",
+      "unitats": 4,
+      "import": 1.82,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 0.46
+    },
+    {
+      "codi": 321,
+      "producte": "XOCOLATA BLANCA 0,5€",
+      "unitats": 1,
+      "import": 0.45,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 325,
+      "producte": "CRUMBLE MADUIXA 0,5€",
+      "unitats": 3,
+      "import": 1.36,
+      "categoria": "Altres",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 326,
+      "producte": "TUPPER",
+      "unitats": 3,
+      "import": 27.14,
+      "categoria": "Altres",
+      "preuMig": 9.05
+    },
+    {
+      "codi": 327,
+      "producte": "NATA",
+      "unitats": 2,
+      "import": 0.0,
+      "categoria": "Complements",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 329,
+      "producte": "AIGUA AMB GAS",
+      "unitats": 2,
+      "import": 5.45,
+      "categoria": "Begudes",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 330,
+      "producte": "AIGUA 50CC",
+      "unitats": 81,
+      "import": 147.27,
+      "categoria": "Begudes",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 331,
+      "producte": "AQUARIUS LLIMONA",
+      "unitats": 15,
+      "import": 40.91,
+      "categoria": "Begudes",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 334,
+      "producte": "CACAOLAT",
+      "unitats": 4,
+      "import": 10.91,
+      "categoria": "Altres",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 335,
+      "producte": "COKE",
+      "unitats": 27,
+      "import": 73.64,
+      "categoria": "Altres",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 336,
+      "producte": "DAMM LEMON",
+      "unitats": 14,
+      "import": 38.18,
+      "categoria": "Altres",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 337,
+      "producte": "ESTRELLA",
+      "unitats": 249,
+      "import": 679.09,
+      "categoria": "Especialitats",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 338,
+      "producte": "FANTA",
+      "unitats": 10,
+      "import": 27.27,
+      "categoria": "Begudes",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 340,
+      "producte": "GRANINI",
+      "unitats": 5,
+      "import": 13.64,
+      "categoria": "Altres",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 342,
+      "producte": "NESTEA",
+      "unitats": 4,
+      "import": 10.91,
+      "categoria": "Begudes",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 345,
+      "producte": "SAN MIGUEL TORRADA 00",
+      "unitats": 4,
+      "import": 10.91,
+      "categoria": "Altres",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 346,
+      "producte": "TONICA SWEPPES",
+      "unitats": 4,
+      "import": 10.91,
+      "categoria": "Begudes",
+      "preuMig": 2.73
+    },
+    {
+      "codi": 348,
+      "producte": "HOT DOG",
+      "unitats": 38,
+      "import": 172.73,
+      "categoria": "Altres",
+      "preuMig": 4.55
+    },
+    {
+      "codi": 349,
+      "producte": "ENTREPA PERNIL",
+      "unitats": 11,
+      "import": 50.0,
+      "categoria": "Altres",
+      "preuMig": 4.55
+    },
+    {
+      "codi": 350,
+      "producte": "ENTREPA FUET",
+      "unitats": 7,
+      "import": 27.27,
+      "categoria": "Altres",
+      "preuMig": 3.9
+    },
+    {
+      "codi": 351,
+      "producte": "ENTREPA XORIÇO",
+      "unitats": 3,
+      "import": 13.64,
+      "categoria": "Altres",
+      "preuMig": 4.55
+    },
+    {
+      "codi": 352,
+      "producte": "ENTREPA FORMATGE",
+      "unitats": 8,
+      "import": 36.36,
+      "categoria": "Altres",
+      "preuMig": 4.54
+    },
+    {
+      "codi": 353,
+      "producte": "GOFRE NUTELLA",
+      "unitats": 61,
+      "import": 277.27,
+      "categoria": "Complements",
+      "preuMig": 4.55
+    },
+    {
+      "codi": 354,
+      "producte": "GOFRE NATA",
+      "unitats": 5,
+      "import": 22.73,
+      "categoria": "Complements",
+      "preuMig": 4.55
+    },
+    {
+      "codi": 355,
+      "producte": "GOFRE NUTELLA I NATA",
+      "unitats": 6,
+      "import": 32.73,
+      "categoria": "Complements",
+      "preuMig": 5.45
+    },
+    {
+      "codi": 356,
+      "producte": "XURROS",
+      "unitats": 17,
+      "import": 69.55,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 4.09
+    },
+    {
+      "codi": 357,
+      "producte": "XOCOLATA & XURROS",
+      "unitats": 22,
+      "import": 120.0,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 5.45
+    },
+    {
+      "codi": 358,
+      "producte": "FROZZEN PLATAN",
+      "unitats": 3,
+      "import": 13.64,
+      "categoria": "Altres",
+      "preuMig": 4.55
+    },
+    {
+      "codi": 359,
+      "producte": "FROZZEN NUTELLA",
+      "unitats": 5,
+      "import": 22.73,
+      "categoria": "Complements",
+      "preuMig": 4.55
+    },
+    {
+      "codi": 360,
+      "producte": "FROZZEN NUTELLA I PLATAN",
+      "unitats": 3,
+      "import": 16.36,
+      "categoria": "Complements",
+      "preuMig": 5.45
+    },
+    {
+      "codi": 361,
+      "producte": "XIPS",
+      "unitats": 8,
+      "import": 14.55,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 362,
+      "producte": "VARIOS",
+      "unitats": 15,
+      "import": 17.31,
+      "categoria": "Altres",
+      "preuMig": 1.15
+    },
+    {
+      "codi": 363,
+      "producte": "SABOR STRACCIATELLA",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 364,
+      "producte": "AÇAI L",
+      "unitats": 5,
+      "import": 27.05,
+      "categoria": "Altres",
+      "preuMig": 5.41
+    },
+    {
+      "codi": 365,
+      "producte": "AÇAI M",
+      "unitats": 6,
+      "import": 25.91,
+      "categoria": "Altres",
+      "preuMig": 4.32
+    },
+    {
+      "codi": 366,
+      "producte": "AÇAI  S",
+      "unitats": 3,
+      "import": 9.82,
+      "categoria": "Altres",
+      "preuMig": 3.27
+    },
+    {
+      "codi": 367,
+      "producte": "XOCO MADUIXA",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 368,
+      "producte": "MELMALADA MARACUIA",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 369,
+      "producte": "CARAMEL SALAT",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 376,
+      "producte": "CRISPY BALLS NEGRE 0.5 €",
+      "unitats": 1,
+      "import": 0.45,
+      "categoria": "Altres",
+      "preuMig": 0.45
+    },
+    {
+      "codi": 377,
+      "producte": "CRISPY BALLS NEGRA 1€",
+      "unitats": 1,
+      "import": 0.91,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 380,
+      "producte": "PISTATXO POLS 1 €",
+      "unitats": 5,
+      "import": 4.55,
+      "categoria": "Altres",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 387,
+      "producte": "MELMALADA FRUITS VERMELLS",
+      "unitats": 2,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 390,
+      "producte": "XOCOLATA PISTATXO",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 395,
+      "producte": "GELAT MARACUIA 2 €",
+      "unitats": 1,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 396,
+      "producte": "GELAT CRISPETES 2 €",
+      "unitats": 1,
+      "import": 1.82,
+      "categoria": "Altres",
+      "preuMig": 1.82
+    },
+    {
+      "codi": 401,
+      "producte": "DESCAFEINAT SOBRE",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Cafeteria",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 403,
+      "producte": "SENSE SUCRE",
+      "unitats": 4,
+      "import": -0.0,
+      "categoria": "Altres",
+      "preuMig": -0.0
+    },
+    {
+      "codi": 404,
+      "producte": "SUCRE MORE",
+      "unitats": 3,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 406,
+      "producte": "LLET SENSE LACTOSA",
+      "unitats": 2,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 407,
+      "producte": "LLET VEGETAL  0 €",
+      "unitats": 1,
+      "import": 0.0,
+      "categoria": "Altres",
+      "preuMig": 0.0
+    },
+    {
+      "codi": 409,
+      "producte": "MATCHA MADUIXA",
+      "unitats": 5,
+      "import": 22.5,
+      "categoria": "Altres",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 410,
+      "producte": "MATCHA MANGO",
+      "unitats": 3,
+      "import": 13.5,
+      "categoria": "Altres",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 411,
+      "producte": "MATCHA COCO",
+      "unitats": 6,
+      "import": 27.0,
+      "categoria": "Altres",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 412,
+      "producte": "CHAI PISTATXO",
+      "unitats": 2,
+      "import": 9.0,
+      "categoria": "Especialitats",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 415,
+      "producte": "SPECIAL VAINILLA",
+      "unitats": 4,
+      "import": 16.0,
+      "categoria": "Altres",
+      "preuMig": 4.0
+    },
+    {
+      "codi": 416,
+      "producte": "SPECIAL CARAMEL",
+      "unitats": 1,
+      "import": 4.0,
+      "categoria": "Altres",
+      "preuMig": 4.0
+    },
+    {
+      "codi": 419,
+      "producte": "SPECIAL MOCHA BLANC",
+      "unitats": 3,
+      "import": 12.0,
+      "categoria": "Altres",
+      "preuMig": 4.0
+    },
+    {
+      "codi": 425,
+      "producte": "FRAPPE PISTATXO",
+      "unitats": 1,
+      "import": 6.27,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 6.27
+    },
+    {
+      "codi": 429,
+      "producte": "MILK MARACUIA",
+      "unitats": 1,
+      "import": 4.45,
+      "categoria": "Altres",
+      "preuMig": 4.45
+    },
+    {
+      "codi": 433,
+      "producte": "SMOOTHIE AÇAI",
+      "unitats": 3,
+      "import": 16.09,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 438,
+      "producte": "PACK 3 XURROS",
+      "unitats": 5,
+      "import": 24.09,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 4.82
+    },
+    {
+      "codi": 442,
+      "producte": "PACK 3 XURROS XOCO B",
+      "unitats": 1,
+      "import": 5.36,
+      "categoria": "Xurros & Xocolata",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 444,
+      "producte": "CREPE NUTELLA",
+      "unitats": 25,
+      "import": 112.41,
+      "categoria": "Crepes",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 445,
+      "producte": "WAFFLE NUTELLA",
+      "unitats": 37,
+      "import": 166.36,
+      "categoria": "Waffles",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 446,
+      "producte": "SANDWIC KINDER",
+      "unitats": 7,
+      "import": 31.45,
+      "categoria": "Especialitats",
+      "preuMig": 4.49
+    },
+    {
+      "codi": 447,
+      "producte": "COLA CAO",
+      "unitats": 4,
+      "import": 9.09,
+      "categoria": "Altres",
+      "preuMig": 2.27
+    },
+    {
+      "codi": 448,
+      "producte": "MINI DONUT",
+      "unitats": 7,
+      "import": 6.36,
+      "categoria": "Pastisseria",
+      "preuMig": 0.91
+    },
+    {
+      "codi": 449,
+      "producte": "BATUT VAINILLA",
+      "unitats": 1,
+      "import": 5.36,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 450,
+      "producte": "BATUT XOCOLATA",
+      "unitats": 1,
+      "import": 5.36,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 451,
+      "producte": "BATUT MADUIXA",
+      "unitats": 2,
+      "import": 10.73,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.37
+    },
+    {
+      "codi": 453,
+      "producte": "BATUT MANGO",
+      "unitats": 3,
+      "import": 16.09,
+      "categoria": "Batuts & Smoothies",
+      "preuMig": 5.36
+    },
+    {
+      "codi": 454,
+      "producte": "CREPE PISTATXO",
+      "unitats": 4,
+      "import": 18.0,
+      "categoria": "Crepes",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 455,
+      "producte": "CREPE KINDER",
+      "unitats": 4,
+      "import": 18.0,
+      "categoria": "Crepes",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 456,
+      "producte": "CREPE XOCOLATA",
+      "unitats": 1,
+      "import": 4.5,
+      "categoria": "Crepes",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 458,
+      "producte": "WAFFLE KINDER",
+      "unitats": 2,
+      "import": 9.0,
+      "categoria": "Waffles",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 459,
+      "producte": "WAFFLE PISTATXO",
+      "unitats": 2,
+      "import": 9.0,
+      "categoria": "Waffles",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 460,
+      "producte": "WAFFLE XOCOLATA",
+      "unitats": 1,
+      "import": 4.5,
+      "categoria": "Waffles",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 461,
+      "producte": "WAFFLE XOCOLATA BLANCA",
+      "unitats": 4,
+      "import": 18.0,
+      "categoria": "Waffles",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 462,
+      "producte": "SANDWICH NUTELLA",
+      "unitats": 5,
+      "import": 22.5,
+      "categoria": "Complements",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 463,
+      "producte": "SANDWICH PISTATXO",
+      "unitats": 1,
+      "import": 4.5,
+      "categoria": "Menjar",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 464,
+      "producte": "SANDWICH XOCOLATA",
+      "unitats": 1,
+      "import": 4.5,
+      "categoria": "Menjar",
+      "preuMig": 4.5
+    },
+    {
+      "codi": 465,
+      "producte": "SANDWICH XOCOLATA  BLANCA",
+      "unitats": 1,
+      "import": 4.5,
+      "categoria": "Menjar",
+      "preuMig": 4.5
+    }
+  ],
+  "categories": [
+    {
+      "name": "Pots Gelat",
+      "unitats": 910,
+      "import": 3679.59,
+      "pctImport": 18.7
+    },
+    {
+      "name": "Cucurutxos",
+      "unitats": 351,
+      "import": 1306.04,
+      "pctImport": 6.7
+    },
+    {
+      "name": "Waffles",
+      "unitats": 494,
+      "import": 2248.5,
+      "pctImport": 11.5
+    },
+    {
+      "name": "Crepes",
+      "unitats": 182,
+      "import": 817.36,
+      "pctImport": 4.2
+    },
+    {
+      "name": "Cafeteria",
+      "unitats": 1020,
+      "import": 1891.77,
+      "pctImport": 9.6
+    },
+    {
+      "name": "Xurros & Xocolata",
+      "unitats": 389,
+      "import": 1220.91,
+      "pctImport": 6.2
+    },
+    {
+      "name": "Iogurts",
+      "unitats": 245,
+      "import": 987.31,
+      "pctImport": 5.0
+    },
+    {
+      "name": "Batuts & Smoothies",
+      "unitats": 266,
+      "import": 1455.82,
+      "pctImport": 7.4
+    },
+    {
+      "name": "Especialitats",
+      "unitats": 817,
+      "import": 2780.13,
+      "pctImport": 14.2
+    },
+    {
+      "name": "Begudes",
+      "unitats": 374,
+      "import": 773.08,
+      "pctImport": 3.9
+    },
+    {
+      "name": "Complements",
+      "unitats": 508,
+      "import": 663.7,
+      "pctImport": 3.4
+    },
+    {
+      "name": "Menjar",
+      "unitats": 3,
+      "import": 13.5,
+      "pctImport": 0.1
+    },
+    {
+      "name": "Pastisseria",
+      "unitats": 31,
+      "import": 38.63,
+      "pctImport": 0.2
+    },
+    {
+      "name": "Altres",
+      "unitats": 962,
+      "import": 1755.93,
+      "pctImport": 8.9
+    }
+  ],
+  "totals": {
+    "facturacio": 19632.27,
+    "unitats": 6552,
+    "productes": 321,
+    "ticketMig": 3.0
+  },
+  "daily": [
+    {
+      "date": "2026-02-01",
+      "facturacio": 19632.27,
+      "unitats": 6552
+    }
+  ]
+}
