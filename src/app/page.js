@@ -263,8 +263,11 @@ export default function DashboardPage() {
     <div className="space-y-4 sm:space-y-6 pb-10">
       {/* Header + Date Filter */}
       <div className="flex flex-col gap-3 sm:gap-4">
-        <div>
+        <div className="flex items-center justify-between">
           <h1 className="text-xl sm:text-3xl font-bold" style={{ color: '#f1f5f9' }}>Dashboard Gelateria</h1>
+          <a href="/costos" className="bg-amber-500 hover:bg-amber-600 text-black font-semibold px-4 py-2 rounded-lg text-sm transition">Costos & Factures →</a>
+        </div>
+        <div>
           <p className="text-xs sm:text-sm mt-1" style={{ color: '#94a3b8' }}>
             {isFullRange
               ? `Periode complet: ${formatDate(period.start)} — ${formatDate(period.end)} (${period.days} dies)`
