@@ -102,9 +102,9 @@ export default function CostsPage() {
   const [expandedProduct, setExpandedProduct] = useState(null)
   const [loaded, setLoaded] = useState(false)
 
-  // Load products from sales.json
+  // Load products from API (real DB data)
   useEffect(() => {
-    fetch('/data/sales.json')
+    fetch('/api/sales')
       .then((r) => r.json())
       .then((data) => setProducts(data.products || []))
       .catch(() => setProducts([]))

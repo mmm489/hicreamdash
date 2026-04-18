@@ -117,16 +117,11 @@ export default function DashboardPage() {
     fetch('/api/sales')
       .then((r) => r.json())
       .then((d) => {
-        // Fallback to static JSON if API returns empty (no DB data yet)
-        if (!d.products || d.products.length === 0) {
-          return fetch('/data/sales.json').then(r => r.json())
-        }
-        return d
-      })
-      .then((d) => {
         setData(d)
-        setDateFrom(d.period.start)
-        setDateTo(d.period.end)
+        if (d.period && d.period.start) {
+          setDateFrom(d.period.start)
+          setDateTo(d.period.end)
+        }
       })
       .catch(console.error)
   }, [])
