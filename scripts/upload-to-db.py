@@ -36,47 +36,54 @@ if not os.path.exists(xls_path):
     sys.exit(1)
 
 # ---------------------------------------------------------------------------
-# Categorisation (same as process-sales.py)
+# Categorisation - uses official categories from product_categories.json
+# (generated from the TPV "Articles x Departaments Venda" export)
 # ---------------------------------------------------------------------------
-def categorise(name):
+import json as _json
+
+_CATEGORIES_FILE = os.path.join(os.path.dirname(__file__), "..", "product_categories.json")
+try:
+    with open(_CATEGORIES_FILE, encoding="utf-8") as _f:
+        _cat_data = _json.load(_f)
+    # Build two lookups: by codi (preferred) and by exact name
+    _CAT_BY_CODI = {info["codi"]: info["categoria"] for info in _cat_data.values()}
+    _CAT_BY_NAME = {name: info["categoria"] for name, info in _cat_data.items()}
+except Exception as _e:
+    print(f"AVIS: no s'ha pogut carregar product_categories.json ({_e})")
+    _CAT_BY_CODI, _CAT_BY_NAME = {}, {}
+
+
+def categorise(name, codi=None):
+    """Return official category for a product. Prefers codi match, then name."""
+    if codi is not None and codi in _CAT_BY_CODI:
+        return _CAT_BY_CODI[codi]
+    if name in _CAT_BY_NAME:
+        return _CAT_BY_NAME[name]
+    # Fallback heuristic for products not in the official list
     n = name.upper()
-    if re.search(r"POT\s+(S|M|L|XL)\b", n) and "IOGURT" not in n:
-        return "Pots Gelat"
-    if "CUCURUTXO" in n or "CUCURUCHO" in n:
-        return "Cucurutxos"
-    if "WAFFLE" in n:
-        return "Waffles"
-    if "CREPE" in n or "CREP " in n or n.endswith("CREP"):
-        return "Crepes"
-    cafe_kw = ["CAFE", "CAFE\u0300", "TALLAT", "CAPUCCINO", "LATTE", "CORTADO", "ESPRESSO"]
-    if any(k in n for k in cafe_kw):
-        return "Cafeteria"
-    if "XURRO" in n or "CHURRO" in n or "XOCOLATA & XURROS" in n:
-        return "Xurros & Xocolata"
-    if "IOGURT" in n or "YOGURT" in n:
-        return "Iogurts"
-    batut_kw = ["BATUT", "SMOOTHIE", "FRAPPE", "FRAPUCCINO", "SHAKE", "GRANIT"]
-    if any(k in n for k in batut_kw):
-        return "Batuts & Smoothies"
-    esp_kw = ["HI POP", "ESTRELLA", "OREO", "KINDER", "DOGHT", "LOTUS",
-              "COOKIES", "MIXTO", "MEDITERRANEO", "PISTACHO", "CHAI", "MACHA"]
-    if any(k in n for k in esp_kw):
-        return "Especialitats"
-    beg_kw = ["AIGUA", "COCA", "FANTA", "7UP", "NESTEA", "AQUARIUS",
-              "CERVESA", "TONICA", "CLARA", "SPRITE", "ZUMO", "LIMONADA", "REFRESC"]
-    if any(k in n for k in beg_kw):
-        return "Begudes"
-    comp_kw = ["NUTELLA", "TOPPING", "NATA", "SIROPE", "EXTRA", "SUPPLEMENT"]
-    if any(k in n for k in comp_kw):
-        return "Complements"
-    if ("SANDWICH" in n and "WAFFLE" not in n) or "BOCADILLO" in n or "PANINI" in n or "TOSTA" in n:
-        return "Menjar"
-    past_kw = ["CROISSANT", "PASTIS", "DONUT", "MAGDALENA"]
-    if any(k in n for k in past_kw):
-        return "Pastisseria"
-    if "XOCOLATA" in n:
-        return "Xurros & Xocolata"
-    return "Altres"
+    if "BATUT" in n: return "BATUTS"
+    if any(k in n for k in ["AIGUA","COCA","FANTA","7UP","NESTEA","AQUARIUS","CERVESA","TONICA","CLARA","SPRITE","ZUMO","LIMONADA","REFRESC","KAS","DAMM","COKE","SWEPPES","NESTEA","ESTRELLA","GRANINI"]): return "BEGUDES"
+    if any(k in n for k in ["CAFE","CAF\u00c8","CAF\u00c9","TALLAT","CAPUCCINO","LATTE","CORTADO","ESPRESSO","COLA CAO"]): return "CAFES"
+    if "CREPE" in n: return "CREPES"
+    if "DOGHT" in n or "DOUGHT" in n: return "DOUGHT"
+    if any(k in n for k in ["FRAPPE","FRAPUCCINO"]): return "FRAPPES"
+    if "SMOOTHIE" in n: return "SMOOTHIE"
+    if re.search(r"POT\s+(S|M|L|XL)\b", n) and "IOGURT" not in n: return "GELATS"
+    if "CUCURUTXO" in n: return "GELATS"
+    if "IOGURT" in n or "YOGURT" in n or "A\u00c7AI" in n: return "FROZZEN IOGURT"
+    if "HI POP" in n or "WAFFLE" in n or "SANDWICH" in n: return "HI POP"
+    if "ICED" in n: return "ICE DRINKS"
+    if any(k in n for k in ["MATCHA","CHAI","MACHA"]): return "ESPECIALITATS"
+    if "MAX " in n or "DONUT" in n: return "BERLINES"
+    if "XURRO" in n or "XOCOLATA & XURROS" in n: return "XURROS"
+    if "INFUSI" in n or "CAMAMILLA" in n: return "INFUSIONS"
+    if "ORXATA" in n: return "ORXATA"
+    if "SABOR" in n: return "SABORS"
+    if "RECETA" in n or "OREO ICE" in n or "COOKIES CREAM" in n: return "RECEPTES"
+    if "XIP" in n: return "XIPS"
+    if any(k in n for k in ["NUTELLA","TOPPING","NATA","SIROPE","CRISPY","LACASITOS","NUBE","KINDER POLS","LOTUS POLS","OREO POLS","MADUIXA"]): return "TOPPINGS"
+    if any(k in n for k in ["SALSA","CREMA","MELMELADA","XOCOLATA","CARAMEL","DOL\u00c7 DE LLET","PISTAXO SALSA"]): return "SALSAS I CREMES"
+    return "VARIOS"
 
 # ---------------------------------------------------------------------------
 # Parse XLS
@@ -152,7 +159,7 @@ for i in range(11, len(df)):
             "producte": nom,
             "unitats": unitats,
             "import": round(imp, 2),
-            "categoria": categorise(nom),
+            "categoria": categorise(nom, codi_int),
         })
 
 print(f"Productes extrets: {len(rows)}")

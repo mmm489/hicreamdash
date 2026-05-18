@@ -1,0 +1,1206 @@
+{
+  "BATUT GELAT": {
+    "codi": 1,
+    "categoria": "BATUTS"
+  },
+  "BATUT VEINS": {
+    "codi": 2,
+    "categoria": "BATUTS"
+  },
+  "BATUT VAINILLA": {
+    "codi": 449,
+    "categoria": "BATUTS"
+  },
+  "BATUT XOCOLATA": {
+    "codi": 450,
+    "categoria": "BATUTS"
+  },
+  "BATUT MADUIXA": {
+    "codi": 451,
+    "categoria": "BATUTS"
+  },
+  "BATUT CAFE": {
+    "codi": 452,
+    "categoria": "BATUTS"
+  },
+  "BATUT MANGO": {
+    "codi": 453,
+    "categoria": "BATUTS"
+  },
+  "7UP": {
+    "codi": 4,
+    "categoria": "BEGUDES"
+  },
+  "AIGUA 1,5": {
+    "codi": 5,
+    "categoria": "BEGUDES"
+  },
+  "AIGUA AMB GAS": {
+    "codi": 6,
+    "categoria": "BEGUDES"
+  },
+  "AIGUA50 CC": {
+    "codi": 7,
+    "categoria": "BEGUDES"
+  },
+  "AQUARIUS LLIMONA": {
+    "codi": 8,
+    "categoria": "BEGUDES"
+  },
+  "BEGUDES VEINS": {
+    "codi": 9,
+    "categoria": "BEGUDES"
+  },
+  "BITTER KAS": {
+    "codi": 10,
+    "categoria": "BEGUDES"
+  },
+  "CACAOLAT": {
+    "codi": 11,
+    "categoria": "BEGUDES"
+  },
+  "COKE": {
+    "codi": 12,
+    "categoria": "BEGUDES"
+  },
+  "COKE 00": {
+    "codi": 13,
+    "categoria": "BEGUDES"
+  },
+  "DAMM  LEMON": {
+    "codi": 14,
+    "categoria": "BEGUDES"
+  },
+  "ESTRELLA": {
+    "codi": 15,
+    "categoria": "BEGUDES"
+  },
+  "FANTA LLIMONA": {
+    "codi": 16,
+    "categoria": "BEGUDES"
+  },
+  "FANTA TARONJA": {
+    "codi": 17,
+    "categoria": "BEGUDES"
+  },
+  "FREE DAMM": {
+    "codi": 18,
+    "categoria": "BEGUDES"
+  },
+  "GRANINI PIÑA": {
+    "codi": 19,
+    "categoria": "BEGUDES"
+  },
+  "GRANINI PRÉSSEC": {
+    "codi": 20,
+    "categoria": "BEGUDES"
+  },
+  "GRANINI TARONJA": {
+    "codi": 21,
+    "categoria": "BEGUDES"
+  },
+  "NESTEA": {
+    "codi": 23,
+    "categoria": "BEGUDES"
+  },
+  "FREE DAMM TORRADA": {
+    "codi": 26,
+    "categoria": "BEGUDES"
+  },
+  "TONICA SWEPPES": {
+    "codi": 27,
+    "categoria": "BEGUDES"
+  },
+  "CASA HI CREAM": {
+    "codi": 399,
+    "categoria": "BEGUDES"
+  },
+  "VILADRAU VEINS": {
+    "codi": 479,
+    "categoria": "BEGUDES"
+  },
+  "MAX KINDER": {
+    "codi": 35,
+    "categoria": "BERLINES"
+  },
+  "MAX LOTUS": {
+    "codi": 36,
+    "categoria": "BERLINES"
+  },
+  "MAX OREO": {
+    "codi": 38,
+    "categoria": "BERLINES"
+  },
+  "MAX PISTACHO": {
+    "codi": 39,
+    "categoria": "BERLINES"
+  },
+  "MINI DONUT DECORAT": {
+    "codi": 41,
+    "categoria": "BERLINES"
+  },
+  "BERLINES HOT HELADO": {
+    "codi": 45,
+    "categoria": "BERLINES"
+  },
+  "MINI DONUT": {
+    "codi": 448,
+    "categoria": "BERLINES"
+  },
+  "CAFE AMB LLET": {
+    "codi": 46,
+    "categoria": "CAFES"
+  },
+  "CAFE AMB LLET DESCAFEÏNAT": {
+    "codi": 48,
+    "categoria": "CAFES"
+  },
+  "CAFE I GELAT": {
+    "codi": 51,
+    "categoria": "CAFES"
+  },
+  "CAFE VEÏNS": {
+    "codi": 52,
+    "categoria": "CAFES"
+  },
+  "CAFÈ": {
+    "codi": 53,
+    "categoria": "CAFES"
+  },
+  "CAFÈ AMERICÀ": {
+    "codi": 54,
+    "categoria": "CAFES"
+  },
+  "CAPUCCINO": {
+    "codi": 56,
+    "categoria": "CAFES"
+  },
+  "CAPUCCINO DESCAFEINAT": {
+    "codi": 57,
+    "categoria": "CAFES"
+  },
+  "DOBLE EXPRESSO": {
+    "codi": 58,
+    "categoria": "CAFES"
+  },
+  "SUIS": {
+    "codi": 72,
+    "categoria": "CAFES"
+  },
+  "TALLAT": {
+    "codi": 74,
+    "categoria": "CAFES"
+  },
+  "TALLAT DESCAFEÍNAT": {
+    "codi": 76,
+    "categoria": "CAFES"
+  },
+  "XOCOLATA A LA TASSA": {
+    "codi": 77,
+    "categoria": "CAFES"
+  },
+  "CAFE CASA": {
+    "codi": 400,
+    "categoria": "CAFES"
+  },
+  "LLET": {
+    "codi": 402,
+    "categoria": "CAFES"
+  },
+  "COLA CAO": {
+    "codi": 447,
+    "categoria": "CAFES"
+  },
+  "CAFE \\ GEL": {
+    "codi": 485,
+    "categoria": "CAFES"
+  },
+  "MATCHA LATE": {
+    "codi": 79,
+    "categoria": "ESPECIALITATS"
+  },
+  "PISTACHO LATTE": {
+    "codi": 80,
+    "categoria": "ESPECIALITATS"
+  },
+  "CHAI LATE": {
+    "codi": 81,
+    "categoria": "ESPECIALITATS"
+  },
+  "MATCHA MADUIXA": {
+    "codi": 409,
+    "categoria": "ESPECIALITATS"
+  },
+  "MATCHA MANGO": {
+    "codi": 410,
+    "categoria": "ESPECIALITATS"
+  },
+  "MATCHA COCO": {
+    "codi": 411,
+    "categoria": "ESPECIALITATS"
+  },
+  "CHAI PISTATXO": {
+    "codi": 412,
+    "categoria": "ESPECIALITATS"
+  },
+  "CHAI XOCOLATA NEGRE": {
+    "codi": 413,
+    "categoria": "ESPECIALITATS"
+  },
+  "CHAI XOCOLATA BLANCA": {
+    "codi": 414,
+    "categoria": "ESPECIALITATS"
+  },
+  "SPECIAL VAINILLA": {
+    "codi": 415,
+    "categoria": "ESPECIALITATS"
+  },
+  "SPECIAL CARAMEL": {
+    "codi": 416,
+    "categoria": "ESPECIALITATS"
+  },
+  "SPECIAL AVELLANA": {
+    "codi": 417,
+    "categoria": "ESPECIALITATS"
+  },
+  "SPECIAL PISTATXO": {
+    "codi": 418,
+    "categoria": "ESPECIALITATS"
+  },
+  "SPECIAL MOCHA BLANC": {
+    "codi": 419,
+    "categoria": "ESPECIALITATS"
+  },
+  "SPECIAL MOCHA NEGRE": {
+    "codi": 420,
+    "categoria": "ESPECIALITATS"
+  },
+  "SPECIAL LOTUS": {
+    "codi": 421,
+    "categoria": "ESPECIALITATS"
+  },
+  "FRED FRIO COLD": {
+    "codi": 482,
+    "categoria": "ESPECIALITATS"
+  },
+  "MATCHA VAINILA": {
+    "codi": 484,
+    "categoria": "ESPECIALITATS"
+  },
+  "CREPE": {
+    "codi": 82,
+    "categoria": "CREPES"
+  },
+  "MEDITERRANEO": {
+    "codi": 83,
+    "categoria": "CREPES"
+  },
+  "MIXTO": {
+    "codi": 84,
+    "categoria": "CREPES"
+  },
+  "QUESOS": {
+    "codi": 85,
+    "categoria": "CREPES"
+  },
+  "CREPE NUTELLA": {
+    "codi": 444,
+    "categoria": "CREPES"
+  },
+  "CREPE PISTATXO": {
+    "codi": 454,
+    "categoria": "CREPES"
+  },
+  "CREPE KINDER": {
+    "codi": 455,
+    "categoria": "CREPES"
+  },
+  "CREPE XOCOLATA": {
+    "codi": 456,
+    "categoria": "CREPES"
+  },
+  "CREPE XOCOLATA BLANCA": {
+    "codi": 457,
+    "categoria": "CREPES"
+  },
+  "CREPE CASA": {
+    "codi": 480,
+    "categoria": "CREPES"
+  },
+  "DOGHT BOX 6 UD.": {
+    "codi": 88,
+    "categoria": "DOUGHT"
+  },
+  "FRAPPE CLASIC": {
+    "codi": 90,
+    "categoria": "FRAPPES"
+  },
+  "FRAPPE & NATA": {
+    "codi": 91,
+    "categoria": "FRAPPES"
+  },
+  "FRAPPE MATCHA": {
+    "codi": 92,
+    "categoria": "FRAPPES"
+  },
+  "FRAPUCCINO CANDY": {
+    "codi": 93,
+    "categoria": "FRAPPES"
+  },
+  "FRAPUCCINO VAINILLA": {
+    "codi": 94,
+    "categoria": "FRAPPES"
+  },
+  "FRAPPE PISTATXO": {
+    "codi": 425,
+    "categoria": "FRAPPES"
+  },
+  "CUCURUTXO L": {
+    "codi": 95,
+    "categoria": "GELATS"
+  },
+  "CUCURUTXO M": {
+    "codi": 96,
+    "categoria": "GELATS"
+  },
+  "CUCURUTXO S": {
+    "codi": 97,
+    "categoria": "GELATS"
+  },
+  "POT L": {
+    "codi": 98,
+    "categoria": "GELATS"
+  },
+  "POT M": {
+    "codi": 99,
+    "categoria": "GELATS"
+  },
+  "POT S": {
+    "codi": 100,
+    "categoria": "GELATS"
+  },
+  "TUPPER": {
+    "codi": 326,
+    "categoria": "GELATS"
+  },
+  "GRANITZAT CAFE": {
+    "codi": 101,
+    "categoria": "GRANISSATS"
+  },
+  "GRANITZAT COCO": {
+    "codi": 102,
+    "categoria": "GRANISSATS"
+  },
+  "GRANITZAT FRAMBUESA": {
+    "codi": 103,
+    "categoria": "GRANISSATS"
+  },
+  "GRANITZAT IOGURT": {
+    "codi": 104,
+    "categoria": "GRANISSATS"
+  },
+  "GRANITZAT LLIMONA": {
+    "codi": 105,
+    "categoria": "GRANISSATS"
+  },
+  "GRANITZAT MADUIXA": {
+    "codi": 106,
+    "categoria": "GRANISSATS"
+  },
+  "GRANITZAT MANGO": {
+    "codi": 107,
+    "categoria": "GRANISSATS"
+  },
+  "GRANITZAT MARACUIA": {
+    "codi": 108,
+    "categoria": "GRANISSATS"
+  },
+  "AMERICAN WAFFLE": {
+    "codi": 109,
+    "categoria": "HI POP"
+  },
+  "SANDWICH WAFFLE": {
+    "codi": 110,
+    "categoria": "HI POP"
+  },
+  "HI POP": {
+    "codi": 111,
+    "categoria": "HI POP"
+  },
+  "WAFFLE NUTELLA": {
+    "codi": 445,
+    "categoria": "HI POP"
+  },
+  "SANDWIC KINDER": {
+    "codi": 446,
+    "categoria": "HI POP"
+  },
+  "WAFFLE KINDER": {
+    "codi": 458,
+    "categoria": "HI POP"
+  },
+  "WAFFLE PISTATXO": {
+    "codi": 459,
+    "categoria": "HI POP"
+  },
+  "WAFFLE XOCOLATA": {
+    "codi": 460,
+    "categoria": "HI POP"
+  },
+  "WAFFLE XOCOLATA BLANCA": {
+    "codi": 461,
+    "categoria": "HI POP"
+  },
+  "SANDWICH NUTELLA": {
+    "codi": 462,
+    "categoria": "HI POP"
+  },
+  "SANDWICH PISTATXO": {
+    "codi": 463,
+    "categoria": "HI POP"
+  },
+  "SANDWICH XOCOLATA": {
+    "codi": 464,
+    "categoria": "HI POP"
+  },
+  "SANDWICH XOCOLATA  BLANCA": {
+    "codi": 465,
+    "categoria": "HI POP"
+  },
+  "WAFFEL SALSA OREO": {
+    "codi": 470,
+    "categoria": "HI POP"
+  },
+  "ICED MADUIXA": {
+    "codi": 112,
+    "categoria": "ICE DRINKS"
+  },
+  "ICED CAFE": {
+    "codi": 113,
+    "categoria": "ICE DRINKS"
+  },
+  "ICED MANGO": {
+    "codi": 114,
+    "categoria": "ICE DRINKS"
+  },
+  "ICED LLIMONA": {
+    "codi": 115,
+    "categoria": "ICE DRINKS"
+  },
+  "ICED MARACUIA": {
+    "codi": 116,
+    "categoria": "ICE DRINKS"
+  },
+  "ICED GERD": {
+    "codi": 117,
+    "categoria": "ICE DRINKS"
+  },
+  "MILK CAFE": {
+    "codi": 118,
+    "categoria": "ICE DRINKS"
+  },
+  "ICED COCO": {
+    "codi": 426,
+    "categoria": "ICE DRINKS"
+  },
+  "ICED IOGURT": {
+    "codi": 427,
+    "categoria": "ICE DRINKS"
+  },
+  "CHAI RECETA": {
+    "codi": 125,
+    "categoria": "RECEPTES"
+  },
+  "COOKIES CREAM": {
+    "codi": 126,
+    "categoria": "RECEPTES"
+  },
+  "KINDER DELIGHT": {
+    "codi": 127,
+    "categoria": "RECEPTES"
+  },
+  "LOTUS RECETA": {
+    "codi": 128,
+    "categoria": "RECEPTES"
+  },
+  "NUTELLA & GO": {
+    "codi": 129,
+    "categoria": "RECEPTES"
+  },
+  "OREO ICE": {
+    "codi": 130,
+    "categoria": "RECEPTES"
+  },
+  "PISTACHO RECETA": {
+    "codi": 131,
+    "categoria": "RECEPTES"
+  },
+  "YOGURT PASIÓN": {
+    "codi": 133,
+    "categoria": "RECEPTES"
+  },
+  "SMOOTHIE COCO": {
+    "codi": 134,
+    "categoria": "SMOOTHIE"
+  },
+  "SMOOTHIE FRAMBUESA": {
+    "codi": 135,
+    "categoria": "SMOOTHIE"
+  },
+  "SMOOTHIE FRESA": {
+    "codi": 136,
+    "categoria": "SMOOTHIE"
+  },
+  "SMOOTHIE MANGO": {
+    "codi": 137,
+    "categoria": "SMOOTHIE"
+  },
+  "SMOOTHIE MARACUYA": {
+    "codi": 138,
+    "categoria": "SMOOTHIE"
+  },
+  "SMOOTHIE AÇAI": {
+    "codi": 433,
+    "categoria": "SMOOTHIE"
+  },
+  "POT IOGURT L": {
+    "codi": 139,
+    "categoria": "FROZZEN IOGURT"
+  },
+  "POT IOGURT M": {
+    "codi": 140,
+    "categoria": "FROZZEN IOGURT"
+  },
+  "POT IOGURT S": {
+    "codi": 141,
+    "categoria": "FROZZEN IOGURT"
+  },
+  "AÇAI L": {
+    "codi": 364,
+    "categoria": "FROZZEN IOGURT"
+  },
+  "AÇAI M": {
+    "codi": 365,
+    "categoria": "FROZZEN IOGURT"
+  },
+  "AÇAI  S": {
+    "codi": 366,
+    "categoria": "FROZZEN IOGURT"
+  },
+  "PATATES XIPS": {
+    "codi": 142,
+    "categoria": "XIPS"
+  },
+  "BOX 6 XURROS + 2 XOCOLATA": {
+    "codi": 143,
+    "categoria": "XURROS"
+  },
+  "BOX 9 XURROS + 3 XOCOLATA": {
+    "codi": 144,
+    "categoria": "XURROS"
+  },
+  "PACK 3 XURROS SUCRE": {
+    "codi": 152,
+    "categoria": "XURROS"
+  },
+  "PACK 3 XURROS XOCOLATA": {
+    "codi": 153,
+    "categoria": "XURROS"
+  },
+  "XOCOLATA & XURROS": {
+    "codi": 154,
+    "categoria": "XURROS"
+  },
+  "XURRO XOCOLATA": {
+    "codi": 155,
+    "categoria": "XURROS"
+  },
+  "XURRO PISTATXO": {
+    "codi": 434,
+    "categoria": "XURROS"
+  },
+  "XURRO MADUIXA": {
+    "codi": 435,
+    "categoria": "XURROS"
+  },
+  "GEL": {
+    "codi": 59,
+    "categoria": "VARIOS"
+  },
+  "SUPLEMENT LLET VEGETAL": {
+    "codi": 73,
+    "categoria": "VARIOS"
+  },
+  "SENSE SUCRE": {
+    "codi": 403,
+    "categoria": "VARIOS"
+  },
+  "LLET SENSE LACTOSA": {
+    "codi": 406,
+    "categoria": "VARIOS"
+  },
+  "EDULCORANT": {
+    "codi": 408,
+    "categoria": "VARIOS"
+  },
+  "GEL BEGUDES": {
+    "codi": 467,
+    "categoria": "VARIOS"
+  },
+  "PER EMPORTAR": {
+    "codi": 481,
+    "categoria": "VARIOS"
+  },
+  "SABOR AVELLANA": {
+    "codi": 160,
+    "categoria": "SABORS"
+  },
+  "SABOR CAFE": {
+    "codi": 162,
+    "categoria": "SABORS"
+  },
+  "SABOR CHEESECAKE": {
+    "codi": 163,
+    "categoria": "SABORS"
+  },
+  "SABOR COCO": {
+    "codi": 164,
+    "categoria": "SABORS"
+  },
+  "SABOR DOLÇ DE LLET": {
+    "codi": 165,
+    "categoria": "SABORS"
+  },
+  "SABOR FERRERO": {
+    "codi": 166,
+    "categoria": "SABORS"
+  },
+  "SABOR KINDER": {
+    "codi": 167,
+    "categoria": "SABORS"
+  },
+  "SABOR LLIMONA": {
+    "codi": 168,
+    "categoria": "SABORS"
+  },
+  "SABOR LOTUS": {
+    "codi": 169,
+    "categoria": "SABORS"
+  },
+  "SABOR MADUIXA": {
+    "codi": 170,
+    "categoria": "SABORS"
+  },
+  "SABOR MANGO": {
+    "codi": 171,
+    "categoria": "SABORS"
+  },
+  "SABOR MARACUIA": {
+    "codi": 172,
+    "categoria": "SABORS"
+  },
+  "SABOR MENTA XOCO": {
+    "codi": 173,
+    "categoria": "SABORS"
+  },
+  "SABOR NATA": {
+    "codi": 174,
+    "categoria": "SABORS"
+  },
+  "SABOR NUTELLA": {
+    "codi": 175,
+    "categoria": "SABORS"
+  },
+  "SABOR OREO": {
+    "codi": 176,
+    "categoria": "SABORS"
+  },
+  "SABOR PISTAXO": {
+    "codi": 177,
+    "categoria": "SABORS"
+  },
+  "SABOR TURRO": {
+    "codi": 178,
+    "categoria": "SABORS"
+  },
+  "SABOR VAINILLA": {
+    "codi": 179,
+    "categoria": "SABORS"
+  },
+  "SABOR VAINILLA COOKIES": {
+    "codi": 180,
+    "categoria": "SABORS"
+  },
+  "SABOR XOCOLATA": {
+    "codi": 181,
+    "categoria": "SABORS"
+  },
+  "SABOR STRACCIATELLA": {
+    "codi": 363,
+    "categoria": "SABORS"
+  },
+  "SABOR CRISPETES": {
+    "codi": 398,
+    "categoria": "SABORS"
+  },
+  "XOCOLATA": {
+    "codi": 182,
+    "categoria": "SALSAS I CREMES"
+  },
+  "XOCOLATA BLANCA": {
+    "codi": 183,
+    "categoria": "SALSAS I CREMES"
+  },
+  "PISTATXO SALSA": {
+    "codi": 184,
+    "categoria": "SALSAS I CREMES"
+  },
+  "DOLÇ DE LLET": {
+    "codi": 190,
+    "categoria": "SALSAS I CREMES"
+  },
+  "CREMA CATALANA": {
+    "codi": 191,
+    "categoria": "SALSAS I CREMES"
+  },
+  "KINDER SALSA": {
+    "codi": 195,
+    "categoria": "SALSAS I CREMES"
+  },
+  "LOTUS SALSA": {
+    "codi": 198,
+    "categoria": "SALSAS I CREMES"
+  },
+  "MELMELADA NABIUS": {
+    "codi": 202,
+    "categoria": "SALSAS I CREMES"
+  },
+  "OREO SALSA": {
+    "codi": 206,
+    "categoria": "SALSAS I CREMES"
+  },
+  "DOLÇ DE LLET 1 €": {
+    "codi": 246,
+    "categoria": "SALSAS I CREMES"
+  },
+  "CREMA CATALANA  1 €": {
+    "codi": 247,
+    "categoria": "SALSAS I CREMES"
+  },
+  "KINDER SALSA 1€": {
+    "codi": 251,
+    "categoria": "SALSAS I CREMES"
+  },
+  "LOTUS SALSA 1€": {
+    "codi": 254,
+    "categoria": "SALSAS I CREMES"
+  },
+  "OREO SALSA 1€": {
+    "codi": 262,
+    "categoria": "SALSAS I CREMES"
+  },
+  "PISTAXO SALSA 1€": {
+    "codi": 263,
+    "categoria": "SALSAS I CREMES"
+  },
+  "XOCOLATA 1€": {
+    "codi": 267,
+    "categoria": "SALSAS I CREMES"
+  },
+  "XOCOLATA BLANCA 1€": {
+    "codi": 268,
+    "categoria": "SALSAS I CREMES"
+  },
+  "DOLÇ DE LLET 0.50 €": {
+    "codi": 299,
+    "categoria": "SALSAS I CREMES"
+  },
+  "CREMA CATALANA 0.5 €": {
+    "codi": 300,
+    "categoria": "SALSAS I CREMES"
+  },
+  "KINDER SALSA 0.5€": {
+    "codi": 304,
+    "categoria": "SALSAS I CREMES"
+  },
+  "MELMELADA NABIUS 0.5 €": {
+    "codi": 311,
+    "categoria": "SALSAS I CREMES"
+  },
+  "PISTAXO SALSA 0.5€": {
+    "codi": 316,
+    "categoria": "SALSAS I CREMES"
+  },
+  "XOCOLATA 0.5€": {
+    "codi": 320,
+    "categoria": "SALSAS I CREMES"
+  },
+  "XOCOLATA BLANCA 0,5€": {
+    "codi": 321,
+    "categoria": "SALSAS I CREMES"
+  },
+  "XOCO MADUIXA": {
+    "codi": 367,
+    "categoria": "SALSAS I CREMES"
+  },
+  "MELMALADA MARACUIA": {
+    "codi": 368,
+    "categoria": "SALSAS I CREMES"
+  },
+  "CARAMEL SALAT": {
+    "codi": 369,
+    "categoria": "SALSAS I CREMES"
+  },
+  "CARAMEL SALAT 1€": {
+    "codi": 370,
+    "categoria": "SALSAS I CREMES"
+  },
+  "CARAMEL SALAT 0.50 €": {
+    "codi": 371,
+    "categoria": "SALSAS I CREMES"
+  },
+  "MELMALADA MARACUIA 0.50 €": {
+    "codi": 374,
+    "categoria": "SALSAS I CREMES"
+  },
+  "MELMALADA MARACUIA 1 €": {
+    "codi": 381,
+    "categoria": "SALSAS I CREMES"
+  },
+  "XOCO PISTATXO 1 €": {
+    "codi": 383,
+    "categoria": "SALSAS I CREMES"
+  },
+  "MELMALADA MANGO": {
+    "codi": 384,
+    "categoria": "SALSAS I CREMES"
+  },
+  "MELMALADA MANGO 1 €": {
+    "codi": 386,
+    "categoria": "SALSAS I CREMES"
+  },
+  "MELMALADA FRUITS VERMELLS": {
+    "codi": 387,
+    "categoria": "SALSAS I CREMES"
+  },
+  "MELMALADA FRUITS VERMELLS 0,5 €": {
+    "codi": 388,
+    "categoria": "SALSAS I CREMES"
+  },
+  "XOCOLATA PISTATXO": {
+    "codi": 390,
+    "categoria": "SALSAS I CREMES"
+  },
+  "NUTELLA": {
+    "codi": 187,
+    "categoria": "TOPPINGS"
+  },
+  "CRISPY BALLS BLANCA": {
+    "codi": 188,
+    "categoria": "TOPPINGS"
+  },
+  "LACASITOS": {
+    "codi": 196,
+    "categoria": "TOPPINGS"
+  },
+  "LOTUS POLS": {
+    "codi": 197,
+    "categoria": "TOPPINGS"
+  },
+  "MADUIXA NATURAL": {
+    "codi": 199,
+    "categoria": "TOPPINGS"
+  },
+  "NATA": {
+    "codi": 203,
+    "categoria": "TOPPINGS"
+  },
+  "NUBE": {
+    "codi": 204,
+    "categoria": "TOPPINGS"
+  },
+  "OREO POLS": {
+    "codi": 205,
+    "categoria": "TOPPINGS"
+  },
+  "PLATAN NATURAL": {
+    "codi": 208,
+    "categoria": "TOPPINGS"
+  },
+  "SUCRE": {
+    "codi": 210,
+    "categoria": "TOPPINGS"
+  },
+  "PISTATXO POLS": {
+    "codi": 378,
+    "categoria": "TOPPINGS"
+  },
+  "GELAT AVELLANA": {
+    "codi": 217,
+    "categoria": "TOPPING GELAT 1 €"
+  },
+  "GELAT COCO": {
+    "codi": 218,
+    "categoria": "TOPPING GELAT 1 €"
+  },
+  "GELAT KINDER": {
+    "codi": 221,
+    "categoria": "TOPPING GELAT 1 €"
+  },
+  "GELAT LOTUS": {
+    "codi": 223,
+    "categoria": "TOPPING GELAT 1 €"
+  },
+  "GELAT MADUIXA": {
+    "codi": 224,
+    "categoria": "TOPPING GELAT 1 €"
+  },
+  "GELAT NATA": {
+    "codi": 226,
+    "categoria": "TOPPING GELAT 1 €"
+  },
+  "GELAT OREO": {
+    "codi": 227,
+    "categoria": "TOPPING GELAT 1 €"
+  },
+  "GELAT VAINILLA": {
+    "codi": 230,
+    "categoria": "TOPPING GELAT 1 €"
+  },
+  "GELAT CHEESECAKE": {
+    "codi": 234,
+    "categoria": "TOPPING GELAT 1 €"
+  },
+  "GELAT MARACUIA": {
+    "codi": 236,
+    "categoria": "TOPPING GELAT 1 €"
+  },
+  "NUTELLA 1€": {
+    "codi": 243,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "CRISPY BALLS BLANCA 1€": {
+    "codi": 244,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "LACASITOS 1€": {
+    "codi": 252,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "LOTUS  POLS 1€": {
+    "codi": 253,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "MADUIXA NATURAL 1€": {
+    "codi": 255,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "NATA 1€": {
+    "codi": 259,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "NUBE 1€": {
+    "codi": 260,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "OREO POLS 1€": {
+    "codi": 261,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "PLATAN NATURAL 1€": {
+    "codi": 264,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "CRUMBLE CARAMEL 1€": {
+    "codi": 270,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "CRUMBLE XOCOLATA 1€": {
+    "codi": 271,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "CRUMBLE MADUIXA 1€": {
+    "codi": 272,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "CRISPY BALLS NEGRA 1€": {
+    "codi": 377,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "PISTATXO POLS 1 €": {
+    "codi": 380,
+    "categoria": "TOPPING 1€ EXTRA"
+  },
+  "KINDER": {
+    "codi": 488,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "GELAT AVELLANA 2€": {
+    "codi": 273,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT COCO 2€": {
+    "codi": 274,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT DULCE DE LECHE 2€": {
+    "codi": 275,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT IOGURT 2€": {
+    "codi": 276,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT KINDER 2€": {
+    "codi": 278,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT LOTUS 2€": {
+    "codi": 279,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT MADUIXA 2€": {
+    "codi": 280,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT MANGO 2€": {
+    "codi": 281,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT NATA 2€": {
+    "codi": 282,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT OREO 2€": {
+    "codi": 283,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT AÇAI 2€": {
+    "codi": 284,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT STRACCIATELA 2€": {
+    "codi": 285,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT VAINILLA 2€": {
+    "codi": 286,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT XOCOLATA 2€": {
+    "codi": 287,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT FERRERO 2€": {
+    "codi": 291,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT PISTAXO 2€": {
+    "codi": 293,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT NUTELLA 2€": {
+    "codi": 294,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT VAINILLA COOKIES 2€": {
+    "codi": 295,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT MARACUIA 2 €": {
+    "codi": 395,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT CRISPETES 2 €": {
+    "codi": 396,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "GELAT TURRO 2 €": {
+    "codi": 397,
+    "categoria": "TOPPING GELAT 2€"
+  },
+  "NUTELLA 0,5€": {
+    "codi": 296,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "CRISPY BALLS BLANCA 0.5 €": {
+    "codi": 297,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "LACASITOS 0.5€": {
+    "codi": 305,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "LOTUS POLS 0.5€": {
+    "codi": 306,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "MADUIXA NATURAL 0.5€": {
+    "codi": 308,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "NATA 0.5€": {
+    "codi": 312,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "NUBE 0.5€": {
+    "codi": 313,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "OREO POLS 0.5€": {
+    "codi": 314,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "PLATAN NATURAL 0.5€": {
+    "codi": 317,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "SUCRE 0.5€": {
+    "codi": 319,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "CRUMBLE CARAMEL 0,5€": {
+    "codi": 323,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "CRUMBLE MADUIXA 0,5€": {
+    "codi": 325,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "CRISPY BALLS NEGRE 0.5 €": {
+    "codi": 376,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "PISTATXO POLS 0.50 €": {
+    "codi": 379,
+    "categoria": "TOPPINGS 0,5€"
+  },
+  "MENTA POLEO": {
+    "codi": 60,
+    "categoria": "INFUSIONS"
+  },
+  "ENGLISH BREAKFAST": {
+    "codi": 61,
+    "categoria": "INFUSIONS"
+  },
+  "TE VERT": {
+    "codi": 62,
+    "categoria": "INFUSIONS"
+  },
+  "CAMAMILLA": {
+    "codi": 63,
+    "categoria": "INFUSIONS"
+  },
+  "FRUITES VERMELLES": {
+    "codi": 65,
+    "categoria": "INFUSIONS"
+  },
+  "ENGLISH BREAKFAST & LLET": {
+    "codi": 67,
+    "categoria": "INFUSIONS"
+  },
+  "ORXATA": {
+    "codi": 466,
+    "categoria": "ORXATA"
+  }
+}
